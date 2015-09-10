@@ -10,4 +10,4 @@ List:
  - item 1
  - item 2
  
- [http://wwww.ub.uni-kiel.de | UBKI]
+ [UBKI] (http://wwww.ub.uni-kiel.de)
